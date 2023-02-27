@@ -27,3 +27,11 @@ Creates a copy of an existing Git repository. Cloning is the most common way for
 10. "git pull" - Pulling is the automated version of git fetch. It downloads a branch from a remote repository, then immediately merges it into the current branch. This is the Git equivalent of svn update.
 
 11. "git push" - Pushing is the opposite of fetching (with a few caveats). It lets you move a local branch to another repository, which serves as a convenient way to publish contributions.
+
+12. "git rebase" - It is the process of moving a sequence of commits or meerging them into a single commit. This mainly helps while trying to keep a forked repository synced with the main repository.
+
+13. "git cherry-pick" - This command is used to apply the changes done a particular commit which is already existing.
+
+14. "git stash" - This command stashes the uncommited changes and takes the local repository back the last commit
+
+15. "git stash pop" - The latest stashed changes will be added back to the codebase as uncommited changes.
