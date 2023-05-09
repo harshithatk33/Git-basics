@@ -1,5 +1,5 @@
 # Git-basics
-Learning git and github basics from scratch.
+Learn git and github basics from scratch.
 
 
 1. "git add" - saving changes
